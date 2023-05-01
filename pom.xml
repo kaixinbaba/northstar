@@ -29,7 +29,7 @@
 		<socketio-client-version>1.0.0</socketio-client-version>
 		<mockito-version>3.0.0</mockito-version>
 		<hessian-version>4.0.38</hessian-version>
-		<testng-version>7.0.0</testng-version>
+		<testng-version>7.7.0</testng-version>
 	</properties>
 
 	<modules>
